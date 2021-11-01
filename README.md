@@ -1,0 +1,1 @@
+# This code computes approximate solution for a radial hydraulic fracture. You need to run Radial_main.m in either Matlab or Octave. Relevant publication for this code is https://royalsocietypublishing.org/doi/full/10.1098/rsos.160737.
